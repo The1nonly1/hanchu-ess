@@ -1,9 +1,9 @@
 {
-  "title": "Hanchu ESS",
+  "title": "Hanchu ESS Solar",
   "config": {
     "step": {
       "user": {
-        "title": "Connect to Hanchu ESS",
+        "title": "Connect to Hanchu ESS Solar",
         "description": "Enter your Hanchu account credentials. The integration will find your stations automatically.",
         "data": {
           "username": "Username",
